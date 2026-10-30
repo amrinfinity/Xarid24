@@ -1,0 +1,34 @@
+index.html
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+├── vite.config.js
+├── .gitignore
+├── README.md
+├── docs/
+│   └── PROJECT_PROGRESS.md
+└── src/
+    ├── App.tsx
+    ├── main.tsx
+    ├── index.css
+    ├── types/index.ts
+    ├── data/mockData.ts
+    ├── store/index.ts
+    ├── components/
+    │   ├── UI.tsx
+    │   ├── SplashScreen.tsx
+    │   └── LocationModal.tsx
+    └── pages/
+        ├── HomePage.tsx
+        ├── CatalogPage.tsx
+        ├── ProductPage.tsx
+        ├── SearchPage.tsx
+        ├── FavoritesPage.tsx
+        ├── MessagesPage.tsx
+        ├── ChatPage.tsx
+        ├── ProfilePage.tsx
+        ├── CreateListingPage.tsx
+        ├── NotificationsPage.tsx
+        ├── ShopsPage.tsx
+        ├── ShopDetailPage.tsx
+        └── MyListingsPage.tsx
